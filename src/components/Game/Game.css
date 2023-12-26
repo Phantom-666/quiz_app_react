@@ -1,0 +1,16 @@
+.collection-item:hover {
+  background-color: #eee;
+  cursor: pointer;
+}
+
+.preloader {
+  margin-top: 30%;
+}
+.answer {
+  border: 1px solid black;
+}
+
+.answer:hover {
+  background-color: #eee;
+  cursor: pointer;
+}
